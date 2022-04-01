@@ -1,4 +1,4 @@
-# integration-de-maquette-html-et-css
+# Integration-de-maquette-html-et-css
 
 Intégration du landing page selon l'exemple donné ci-dessous au pixel près. 
 
